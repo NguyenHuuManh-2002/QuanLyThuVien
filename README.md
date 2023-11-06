@@ -1,2 +1,2 @@
 # QuanLyThuVien
-Quan LyT hu Vien
+Quan Ly Thu Vien
